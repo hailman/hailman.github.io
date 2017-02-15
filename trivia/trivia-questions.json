@@ -1,0 +1,113 @@
+[{
+    "question": "Soalan 1a",
+    "A": "Betul1a",
+    "B": "Salah1b",
+    "C": "Salah1c",
+    "D": "Salah1d",
+    "answer": "A"
+}, {
+    "question": "Soalan 1b",
+    "A": "Salah1a",
+    "B": "Betul1b",
+    "C": "Salah1c",
+    "D": "Salah1d",
+    "answer": "B"
+}, {
+    "question": "Soalan 1c",
+    "A": "Salah1a",
+    "B": "Salah1b",
+    "C": "Betul1c",
+    "D": "Salah1d",
+    "answer": "C"
+}, {
+    "question": "Soalan 1d",
+    "A": "Salah1a",
+    "B": "Salah1b",
+    "C": "Salah1c",
+    "D": "Betul1d",
+    "answer": "D"
+}, {
+    "question": "Soalan 2a",
+    "A": "Betul2a",
+    "B": "Salah2b",
+    "C": "Salah2c",
+    "D": "Salah2d",
+    "answer": "A"
+}, {
+    "question": "Soalan 2b",
+    "A": "Salah2a",
+    "B": "Betul2b",
+    "C": "Salah2c",
+    "D": "Salah2d",
+    "answer": "B"
+}, {
+    "question": "Soalan 2c",
+    "A": "Salah2a",
+    "B": "Salah2b",
+    "C": "Betul2c",
+    "D": "Salah2d",
+    "answer": "C"
+}, {
+    "question": "Soalan 2d",
+    "A": "Salah2a",
+    "B": "Salah2b",
+    "C": "Salah2c",
+    "D": "Betul2d",
+    "answer": "D"
+}, {
+    "question": "Soalan 3a",
+    "A": "Betul3a",
+    "B": "Salah3b",
+    "C": "Salah3c",
+    "D": "Salah3d",
+    "answer": "A"
+}, {
+    "question": "Soalan 3b",
+    "A": "Salah3a",
+    "B": "Betul3b",
+    "C": "Salah3c",
+    "D": "Salah3d",
+    "answer": "B"
+}, {
+    "question": "Soalan 3c",
+    "A": "Salah3a",
+    "B": "Salah3b",
+    "C": "Betul3c",
+    "D": "Salah3d",
+    "answer": "C"
+}, {
+    "question": "Soalan 3d",
+    "A": "Salah3a",
+    "B": "Salah3b",
+    "C": "Salah3c",
+    "D": "Betul3d",
+    "answer": "D"
+ }, {
+    "question": "Soalan 4a",
+    "A": "Betul4a",
+    "B": "Salah4b",
+    "C": "Salah4c",
+    "D": "Salah4d",
+    "answer": "A"
+}, {
+    "question": "Soalan 4b",
+    "A": "Salah4a",
+    "B": "Betul4b",
+    "C": "Salah4c",
+    "D": "Salah4d",
+    "answer": "B"
+}, {
+    "question": "Soalan 4c",
+    "A": "Salah4a",
+    "B": "Salah4b",
+    "C": "Betul4c",
+    "D": "Salah4d",
+    "answer": "C"
+}, {
+    "question": "Soalan 4d",
+    "A": "Salah4a",
+    "B": "Salah4b",
+    "C": "Salah4c",
+    "D": "Betul4d",
+    "answer": "D"
+}]
